@@ -1,5 +1,0 @@
-Total inference time for the entire dataset: 21.6251 seconds
-Precision: 98.40%
-Recall: 98.39%
-Test Accuracy: 98.39%
-F1 Score: 98.39%
